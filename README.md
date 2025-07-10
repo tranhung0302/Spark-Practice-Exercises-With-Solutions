@@ -1,6 +1,6 @@
 # Spark Practice Exercises with Solutions
 
-Welcome! This repository contains a collection of hands-on Spark exercises inspired by Jacek [Laskowski's Spark workshop](https://jaceklaskowski.github.io/spark-workshop). The goal is to help you practice and master Apache Spark using practical examples and solutions.
+Welcome! This repository contains a collection of hands-on Spark exercises inspired by [Jacek Laskowski's Spark workshop](https://jaceklaskowski.github.io/spark-workshop). The goal is to help you practice and master Apache Spark using practical examples and solutions.
 
 ## Spark Environment Setup
 
@@ -50,7 +50,7 @@ To run pyspark script
   ```
 
 ## Contributing
-Contributions are welcome! Feel free to submit pull requests with new exercises, solutions, or improvements.
+Contributions are welcome! Feel free to submit pull requests with solutions, or improvements.
 
 ---
 Happy Sparking!
