@@ -42,15 +42,15 @@ To use PySpark, you need a Python environment and Java installed on your machine
 To run pyspark script
 
   ```bash
-  python file_name.py
+  python path_to_file.py
   ```
   or
   ```bash
-  spark-submit file_name.py
+  spark-submit path_to_file.py
   ```
 
 ## Contributing
-Contributions are welcome! Feel free to submit pull requests with solutions, or improvements.
+Contributions are welcome! Feel free to submit pull requests with solutions or improvements.
 
 ---
 Happy Sparking!
