@@ -33,11 +33,11 @@ To use PySpark, you need a Python environment and Java installed on your machine
     export JAVA_HOME="/usr/local/opt/openjdk@17"
     ```
 
-- Check if your python can connect to JAVA
+- Check if your Python can connect to JAVA
   - Back to Python and run:
-  ```
-  pyspark
-  ```
+    ```
+    pyspark
+    ```
 
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests with new exercises, solutions, or improvements.
