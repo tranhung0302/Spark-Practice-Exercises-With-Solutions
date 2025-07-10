@@ -1,8 +1,8 @@
-### exercise 1. split function with variable delimiter per row
+### Exercise 1. split function with variable delimiter per row
 
 Write a structured query that splits a column by using delimiters from another column.
 
-EXTRA Write a structured query that removes empty tokens.
+EXTRA: Write a structured query that removes empty tokens.
 
 Module: Spark SQL
 
