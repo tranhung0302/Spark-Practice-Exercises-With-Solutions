@@ -23,7 +23,7 @@ To use PySpark, you need a Python environment and Java installed on your machine
     pyspark --version
     ```
 
-- Install Java (required for Spark 4):
+- Install Java 17 (required for Spark 4):
   - On macOS, you can use Homebrew:
     ```bash
     brew install openjdk@17
